@@ -6,8 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [Built with](#built-with)
-
 
 ### Screenshot
 
@@ -17,9 +15,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [https://github.com/kyleebustamante/qr-challenge-frontend-mentor](https://github.com/kyleebustamante/qr-challenge-frontend-mentor)
 - Live Site URL: [https://superb-figolla-57ecd3.netlify.app/](https://superb-figolla-57ecd3.netlify.app/)
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
